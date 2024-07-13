@@ -3,4 +3,4 @@ This repository implements files for competition on Kaggle, Chatbot Arena: https
 
 Running LoRa Finetuning on Llama3 pretrained model. 
 
-Limited by GPU size (8GB)
+Limited by GPU size (8GB), the current model size is small.
